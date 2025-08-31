@@ -85,7 +85,7 @@ unzip sakila-db.zip
 
 ```
 source /home/vboxuser/Рабочий стол/sakila-db/sakila-schema.sql
-source /home/tverdyakov/sakila-db/sakila-data.sql
+source /home/vboxuser/Рабочий стол/sakila-data.sql
 SHOW DATABASES;
 ```
 
